@@ -17,7 +17,7 @@ body{
 /* a background imaged area for articles and such*/
 .pagecontent{
     /* setup the background */
-    background-image: url("./src/bg.png");
+    background-image: url("/LangSiteFlat/src/bg.png");
     background-repeat:  no-repeat;
     background-position: center top;
     background-attachment: fixed;
